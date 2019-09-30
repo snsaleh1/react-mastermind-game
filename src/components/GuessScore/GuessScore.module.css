@@ -1,0 +1,7 @@
+.GuessScore {
+    display: flex;
+    flex-direction: row; /* FYI, 'row' is the default */
+    flex-wrap: wrap;   /* FYI, 'nowrap' is the default */
+    align-items: center;
+    width: 24px;
+  }
